@@ -13,7 +13,7 @@ Output: "amanaP :lanac a ,nalp a ,nam A" */
  * @param {string} s
  * @return {string}
  */
-var reverseString = function (s) {
+const reverseString = (s) => {
   s = s.split('');
   for (let i = 0, j = s.length - 1; i < j; i++, j--) {
     let temp = s[i];

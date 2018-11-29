@@ -25,7 +25,7 @@ return its depth = 3. */
  * @param {TreeNode} root
  * @return {number}
  */
-var maxDepth = function (root) {
+const maxDepth = (root) => {
   let leftDepth = 1;
   let rightDepth = 1;
   if (root === null) {

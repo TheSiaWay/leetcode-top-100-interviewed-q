@@ -24,6 +24,17 @@ Return:
     "14",
     "FizzBuzz"
 ] */
+const fizzBuzzHelper = (n) => {
+  if (n % 15 === 0) {
+    return 'FizzBuzz';
+  } else if (n % 3 === 0) {
+    return 'Fizz';
+  } else if (n % 5 === 0) {
+    return 'Buzz';
+  } else {
+    return `${n}`;
+  }
+}
 /**
  * @param {number} n
  * @return {string[]}
@@ -35,17 +46,6 @@ const fizzBuzz = (n) =>  {
   }
   return result;
 };
-var fizzBuzzHelper = function (n) {
-  if (n % 15 === 0) {
-    return 'FizzBuzz';
-  } else if (n % 3 === 0) {
-    return 'Fizz';
-  } else if (n % 5 === 0) {
-    return 'Buzz';
-  } else {
-    return `${n}`;
-  }
-}
 
 /**
  * Approach 2 where instead of having explicitly stating the conditions, mapping the conditions in fizz buzz map

@@ -3,3 +3,4 @@
 * [x] [fizz buzz](./fizzBuzz.js)
 * [x] [max depth of a tree](./maxDepth.js)
 * [x] [single number](./singleNumber.js)
+* [x] [move zeros to the end](./moveZeros.js)
