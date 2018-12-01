@@ -8,3 +8,4 @@
 * [x] [reverse list](./reverseList.js)
 * [x] [delete node in a list](./deleteNode.js)
 * [x] [roman to int](./romanToInt.js)
+* [x] [majority element](./majorityElement.js)
