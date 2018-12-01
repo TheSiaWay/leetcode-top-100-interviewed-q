@@ -6,3 +6,4 @@
 * [x] [move zeros to the end](./moveZeros.js)
 * [x] [get sum](./getSum.js)
 * [x] [reverse list](./reverseList.js)
+* [x] [delete node in a list](./deleteNode.js)
