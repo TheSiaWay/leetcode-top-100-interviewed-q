@@ -14,3 +14,4 @@
 * [x] [Valid Anagram](./isAnagram.js)
 * [x] [Contains Duplicate](./containsDuplicate.js)
 * [x] [Find Unique Character in a String](./firstUniqChar.js)
+* [x] [Convert Sorted Array to Binary Search Tree](./sortedArrayToBST.js)
