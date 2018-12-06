@@ -12,4 +12,5 @@
 * [x] [Excel Sheet Column Number](./titleToNumber.js)
 * [x] [Best Time to Buy and Sell Stock II](./maxProfit.js)
 * [x] [Valid Anagram](./isAnagram.js)
-* [ ] [Contains Duplicate](./containsDuplicate.js)
+* [x] [Contains Duplicate](./containsDuplicate.js)
+* [x] [Find Unique Character in a String](./firstUniqChar.js)
