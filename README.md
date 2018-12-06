@@ -10,3 +10,6 @@
 * [x] [Roman to Integer](./romanToInt.js)
 * [x] [Majority Element](./majorityElement.js)
 * [x] [Excel Sheet Column Number](./titleToNumber.js)
+* [x] [Best Time to Buy and Sell Stock II](./maxProfit.js)
+* [x] [Valid Anagram](./isAnagram.js)
+* [ ] [Contains Duplicate](./containsDuplicate.js)
